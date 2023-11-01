@@ -1,3 +1,3 @@
 *.asp.net linguist-detectable=false
-*.unity linguist-detectable=true
+*.c# linguist-detectable=true
   
